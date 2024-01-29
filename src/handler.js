@@ -37,5 +37,4 @@ const getAllNotesHandler = () => ({
   }
 })
 
-
 module.exports = { addNoteHandler, getAllNotesHandler }

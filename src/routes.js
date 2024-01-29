@@ -10,8 +10,7 @@ const routes = [
     method: 'GET',
     path: '/notes',
     handler: getAllNotesHandler
-  },
-
+  }
 ]
 
 module.exports = routes
