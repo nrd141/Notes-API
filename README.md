@@ -3,13 +3,6 @@
 
 This is a simple notes application built with Node.JS.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-
 ## Features
 
 - Add a new note with a title, tags, and body.
